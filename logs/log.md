@@ -10,3 +10,7 @@
 ### day 3
 2020.12.11 星期五
 学习github Actions  [github线上构建](https://p3terx.com/archives/github-actions-started-tutorial.html) 、 [github自动化部署](https://frostming.com/2020/04-26/github-actions-deploy/)  ， 看Vue2源码（Observer）
+
+### day 4
+2020.12.12 星期六
+学习vue2响应式原理，读vue2源码，看黄轶老师响应式原理视频，  数据初始化（defineReactive，Observer）→ get内进行依赖收集（Dep deps收集Watcher（renderWatcher、UserWatcher） ）→ set时进行派发更新（遍历以来deps内的Watcher执行Watcher.run）→更新时的事件调度 queue nextTick
