@@ -9,4 +9,4 @@
 
 ### day 3
 2020.12.11 星期五
-学习github Actions  [github线上构建](https://p3terx.com/archives/github-actions-started-tutorial.html) 、 [github自动化部署](https://frostming.com/2020/04-26/github-actions-deploy/)
+学习github Actions  [github线上构建](https://p3terx.com/archives/github-actions-started-tutorial.html) 、 [github自动化部署](https://frostming.com/2020/04-26/github-actions-deploy/)  ， 看Vue2源码（Observer）
