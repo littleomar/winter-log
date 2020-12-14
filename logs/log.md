@@ -14,3 +14,7 @@
 ### day 4
 2020.12.12 星期六
 学习vue2响应式原理，读vue2源码，看黄轶老师响应式原理视频，  数据初始化（defineReactive，Observer）→ get内进行依赖收集（Dep deps收集Watcher（renderWatcher、UserWatcher） ）→ set时进行派发更新（遍历以来deps内的Watcher执行Watcher.run）→更新时的事件调度 queue nextTick
+
+### day 5
+2020.12.13 星期日
+休息
