@@ -28,3 +28,7 @@
 
 学习vue2响应式原理源码 [Vue2.0 源码阅读：响应式原理](http://zhouweicsu.github.io/blog/2017/03/07/vue-2-0-reactivity/) 学习js执行机制Event Loop以及MicroTask MacroTask [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html) 、 [微任务、宏任务、同步、异步、Promise、Async、await](https://www.cnblogs.com/jiangyuzhen/p/11064408.html)  结合vue2源码理解$nextTick，读vue派发更新源码 理解scheduler，queue 读vue2数据驱动源码（mount，render），看黄轶老师视频
 
+### day7
+2020.12.15 星期二
+
+
