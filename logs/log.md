@@ -31,4 +31,4 @@
 ### day7
 2020.12.15 星期二
 
-
+看vue2源码 看黄轶老师视频学习vue2的数据驱动原理（new Vue的render 和组件的render Vue.extend  &#95;update  &#95;&#95;patch&#95;&#95; ）
