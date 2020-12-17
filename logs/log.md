@@ -41,4 +41,4 @@
 ### day9
 2020.12.17 星期四
 
-深入了解vue DOM更新时 updateChild Diff算法  [【Vue原理】Diff - 源码版 之 Diff 流程](https://juejin.cn/post/6844903961837699079)
+深入了解vue DOM更新时 updateChild Diff算法  [【Vue原理】Diff - 源码版 之 Diff 流程](https://juejin.cn/post/6844903961837699079)  看vue3 diff算法源码，与vue2 diff算法对比阅读 搞懂dom重新渲染流程 了解[最长递增子序列](https://zh.wikipedia.org/wiki/%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97) 在vue3 diff算法的应用 学习vue3 createVnode函数（doing）
