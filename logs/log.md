@@ -37,3 +37,8 @@
 2020.12.16 星期三
 
 看黄轶老师视频，学习vue2组件dom更新原理 初步了解updateChildren函数
+
+### day9
+2020.12.17 星期四
+
+深入了解vue DOM更新时 updateChild Diff算法  [【Vue原理】Diff - 源码版 之 Diff 流程](https://juejin.cn/post/6844903961837699079)
