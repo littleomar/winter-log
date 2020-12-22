@@ -62,3 +62,8 @@
 2020.12.21 星期一
 
 休息
+
+### day14
+2020.12.22 星期二
+
+看黄轶老师视频学习vue2的compile 编译大致分为三大步骤  parseHtml optimize codeGenerate 
