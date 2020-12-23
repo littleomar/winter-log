@@ -67,3 +67,8 @@
 2020.12.22 星期二
 
 看黄轶老师视频学习vue2的compile 编译大致分为三大步骤  parseHtml optimize codeGenerate 
+
+### day15
+2020.12.23 星期三
+
+温习vue3 从createApp到组件组件挂载过程（看源码） 尝试读vue3 compiler相关源码发现看不明白， 学习Typescript相关内容 大致搞懂泛型概念 看视频学习（ts+vue3知乎）
