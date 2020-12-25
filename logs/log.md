@@ -77,3 +77,8 @@
 2020.12.24 星期四
 
 学习vue3新特性（Teleport Suspense） 了解组件自定义事件在tsx中的写法以及为何子组件emit时写法 当事件不在子组件props定义时会引起适用方报错 [@vue/babel-plugin-jsx issues#236](https://github.com/vuejs/jsx-next/issues/236)
+
+### day17
+2020.12.25 星期五
+
+看视频学习（ts+vue3知乎）跟随老师编写vue3在实际应用时代码 了解在vue3 tsx中父组件传值 props emit attrs等
