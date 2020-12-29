@@ -87,3 +87,13 @@
 2020.12.26 星期六
 
 休息
+
+### day19
+2020.12.27 星期日
+
+休息
+
+### day20
+2020.12.28 星期一
+
+学习vuex vue-router 学习tapable包的 SyncHook SyncBailHook SyncWaterfallHook SyncLoopHook
